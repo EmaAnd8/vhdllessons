@@ -1,0 +1,2 @@
+In the First place this simple example aims, 
+at explaining how vhdl could be used to map simple digital device behaviour
