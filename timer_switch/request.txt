@@ -1,0 +1,3 @@
+//Progettare un componente digitale che funzioni come un interruttore con timer appena sono stati contati 10 istanti l'interruttore
+//si accende e si resetta 
+
